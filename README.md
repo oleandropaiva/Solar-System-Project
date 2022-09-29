@@ -1,16 +1,15 @@
-# 🚧 README em construção 🚧
+## Neste projeto, verificamos se voce é capaz de:
 
-<!-- Olá, Tryber!
+Utilizar JSX no React
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Utilizar corretamente o método render() para renderizar seus componentes
 
-É essencial que você preencha esse documento por conta própria, ok?
+Utilizar import para trazer componentes em diferentes arquivos
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Criar componentes de classe em React
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+Criar múltiplos componentes a partir de um array
 
--->
+Fazer uso de props corretamente
+
+Fazer uso de PropTypes para validar as props de um componente
