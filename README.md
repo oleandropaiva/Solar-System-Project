@@ -1,4 +1,4 @@
-## Neste projeto, verificamos se voce é capaz de:
+## Habilidades:
 
 Utilizar JSX no React
 
